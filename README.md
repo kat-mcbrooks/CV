@@ -1,8 +1,10 @@
 ## Kat Brooks
 
-Highly motivated, detail-oriented and creative full-stack developer. From my years working in fast-paced teams within the Education and Charity sectors, I bring a wealth of transferable skills. These include project management, adapting to changing priorities and requirements, and liaising with external stakeholders whilst managing communications within internal teams. 
+Highly motivated, detail-oriented and creative full-stack developer. From my years working in fast-paced teams within the Education and Charity sectors, I bring a wealth of transferable skills. These include project management, an ability to respond to changing priorities and requirements, and liaising with external stakeholders whilst managing communications within internal teams. 
 
-Studying mathematics and spanish at University inspired my passion for solving problems collaboratively and systematically. Since then, 
+Highly motivated, detail-oriented and creative full-stack developer. From my years working in fast-paced teams within the Education and Charity sectors, I bring a wealth of transferable skills. These include project management, expert written and verbal communication skills and an ability to respond to changing priorities and requirements. 
+
+Studying mathematics and spanish at University inspired my passion for solving problems collaboratively and systematically. During my professional career/ Since then, when managing events, my creativity and can-do approach enabled me to respond effectively to unexpected issues as an events manager. During my professional career, I am continuously seeking opportunities to transform 
 
 
 My drive and curiosity led me to delve into the 
