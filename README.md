@@ -1,10 +1,20 @@
 ## Kat Brooks
 
-Highly motivated, detail-oriented and creative full-stack developer. From my years working in fast-paced teams within the Education and Charity sectors, I bring a wealth of transferable skills. These include project management, an ability to respond to changing priorities and requirements, and liaising with external stakeholders whilst managing communications within internal teams. 
+Highly motivated, detail-oriented and creative full-stack developer. From my years working in fast-paced teams within the Education and Charity sectors, I bring a wealth of transferable skills. These include project management, the ability to respond to changing priorities and requirements, and liaising with external stakeholders whilst managing communications within internal teams. 
 
-Highly motivated, detail-oriented and creative full-stack developer. From my years working in fast-paced teams within the Education and Charity sectors, I bring a wealth of transferable skills. These include project management, expert written and verbal communication skills and an ability to respond to changing priorities and requirements. 
+Highly motivated, detail-oriented and creative full-stack developer. From my years working in fast-paced teams within the Education and Charity sectors, I bring a wealth of transferable skills. These include project management, expert written and verbal communication skills and the ability to respond to changing priorities and requirements. 
 
-Studying mathematics and spanish at University inspired my passion for solving problems collaboratively and systematically. During my professional career/ Since then, when managing events, my creativity and can-do approach enabled me to respond effectively to unexpected issues as an events manager. During my professional career, I am continuously seeking opportunities to transform 
+Studying mathematics and spanish at University inspired my passion for solving problems collaboratively and systematically. Later, when working as an events manager, my creativity and can-do approach enabled me to resolve issues and respond effectively when faced with challenging circumstances. Through Makers, I have learnt/had the opportunity to use these skills when working as a team to deliver a new app that meets user requirements, and pair programming sessions to complete weekly challenges. my creativity and can-do approach enabled me to respond effectively to unexpected issue.
+
+
+
+It has been incredibly ost recently, I have 
+
+My hardworking nature and collaborative spirit have been highly valued by former colleagues. 
+
+people skills and I am looking forward to joining 
+
+During my professional career/ Since then, when managing events, my creativity and can-do approach enabled me to respond effectively to unexpected issues as an events manager. During my professional career, I am continuously seeking opportunities to transform 
 
 
 My drive and curiosity led me to delve into the 
@@ -70,9 +80,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+## Education / Training
 
-#### Makers Academy (Dec 2021 to Mar 2022)
+#### Full-Stack Engineering Bootcamp - Makers Academy (Dec 2021 to Mar 2022)
 - Troubleshooting and debugging to support other developers when they have encountered problems
 - Solving challenges independently and working collaboratively on team projects
 - Adapting to varied communication and working styles through daily pair programming (with around 25 other trainee developers)
