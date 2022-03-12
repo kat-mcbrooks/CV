@@ -18,8 +18,9 @@ I am excited by the stimulating, challenging environment and endless learning op
 | Name              | Description                           | Tech/tools        |
 | ------------------| -----------------             | ----------------- |
 | PairPro           | A webapp with real-time chat that connects software developers who are interested in finding others to pair program with. | MERN (MongoDB, Express, React, Node) Javascript, Socket.IO, Cypress, Heroku |
-| Instagram-clone   | A webapp to do y. | Ruby-on-Rails              |
-| MugBook           | A webapp to do y. | Ruby              |
+| Bowling Scorecard | A program that calculates a player's game score, with CLI | Javascript, Jest |
+| MugBook | A webapp that allows authenticated users to post pictures and like posts | Ruby on Rails, Postgres |
+| Chitter | My first relational database CRUD app, a 'Twitter clone' | Postgres, Ruby, Rspec, SimpleCov
 
 ## Work Experience 
 
@@ -49,7 +50,8 @@ St Catharine's College - Alumni Relations and Events Manager (Jan 2019 to Jul 20
 Queens' College - Development Events Manager (Dec 2017 to Dec 2018)
 
 ### Prioritisation and time-management
-- 
+- My ability to multi-task and prioritize enabled me to simultaneously organise logistics for the annual stewardship gala whilst planning and launching a new cultivation strategy and global event series
+
 **
 
 ## Education / Training
@@ -62,6 +64,7 @@ Queens' College - Development Events Manager (Dec 2017 to Dec 2018)
 - Developing best practices and principles: OOP, TDD, MVC, DDD, Agile working
 - React, Express, Node, MongoDB, Ruby, Rails, JavaScript
 - Testing Frameworks: RSpec, Jest, Cypress, React Testing Library
+- CSS, Bootstrap
 
 #### University of Exeter (Sep 2010 to Jul 2014)
 
@@ -69,10 +72,6 @@ Queens' College - Development Events Manager (Dec 2017 to Dec 2018)
 - Grade: First
 
 Mathematics inspired my passion for solving problems collaboratively.
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
