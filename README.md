@@ -27,7 +27,7 @@ I am excited by the stimulating, challenging environment and endless learning op
 Senior Trusts Executive (Jan 2021 to Dec-2021)
 Senior Donor Relations Executive (Mar 2020 to Dec 2020)
 
-### Adaptability
+##### Adaptability
 - My adaptability enabled me to manage constantly changing project requirements and deliverables, due to the fact that I was working with the BHF's highest-value donors.
 - To meet the changing priorities of the rapidly-expanding Philanthropy team, I pivoted from events management to frontline fundraising from philanthropic organisations
 
