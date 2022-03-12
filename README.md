@@ -21,33 +21,36 @@ I am excited by the stimulating, challenging environment and endless learning op
 | Instagram-clone   | A webapp to do y. | Ruby-on-Rails              |
 | MugBook           | A webapp to do y. | Ruby              |
 
-## Work Experience
+## Work Experience 
 
 **British Heart Foundation** (Mar-2020 to Dec-2021)  
 Senior Trusts Executive (Jan 2021 to Dec-2021)
 Senior Donor Relations Executive (Mar 2020 to Dec 2020)
 
-Adaptability
+### Adaptability
+- My adaptability enabled me to manage constantly changing project requirements and deliverables, due to the fact that I was working with the BHF's highest-value donors.
 - To meet the changing priorities of the rapidly-expanding Philanthropy team, I pivoted from events management to frontline fundraising from philanthropic organisations
-Communication and stakeholder liaison
 
-Creative thinking / Exceeding targets / Seeking improvement / Identifying and implementing opportunities for improvement
-- Increasing income by efficient management of the Trust mailing programme   
+### Communication and relationship management
+- I built and strengthened relationships with colleagues across the organisation to collate information and meet tight deadlines set by our department head (for example donor reports, event briefings)
+- Working collaboratively with the digital and patient-involvement teams, I led the BHF's first virtual event series and delivered the Patients First stewardship video
 
 **Cambridge Film Festival** - (Jul 2019 to Jan 2020)  
-Event Manager
+Events Manager
+
+### Project Management
+- I organised the community engagement programme (A Film I Love), which involved managing communications with community partners, volunteer teams and venues and overcoming last-minute 
+- Pre-event and onsite, I briefed suppliers and the delivery team on the daily schedule for Movies on the Meadows and Cambridge Film Festival
+### Solving problems under pressure
+- I used initiative and creativity to respond to last minute requests, unforeseen problems and changing requirements at events 
 
 **University of Cambridge** - (Dec 2017 to Jul 2019)  
 St Catharine's College - Alumni Relations and Events Manager (Jan 2019 to Jul 2019)
-
 Queens' College - Development Events Manager (Dec 2017 to Dec 2018)
 
-- Any experience relevent to software development
-
-## Skills
-In addition to the skills outlined in the careers section above:
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+### Prioritisation and time-management
+- 
+**
 
 ## Education / Training
 
