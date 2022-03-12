@@ -23,19 +23,19 @@ I am excited by the stimulating, challenging environment and endless learning op
 
 ## Work Experience 
 
-**British Heart Foundation** (Mar-2020 to Dec-2021)  
+#### British Heart Foundation (Mar-2020 to Dec-2021)  
 Senior Trusts Executive (Jan 2021 to Dec-2021)
 Senior Donor Relations Executive (Mar 2020 to Dec 2020)
 
-##### Adaptability
+**Adaptability**
 - My adaptability enabled me to manage constantly changing project requirements and deliverables, due to the fact that I was working with the BHF's highest-value donors.
 - To meet the changing priorities of the rapidly-expanding Philanthropy team, I pivoted from events management to frontline fundraising from philanthropic organisations
 
-#### Communication and relationship management
+**Communication and relationship management**
 - I built and strengthened relationships with colleagues across the organisation to collate information and meet tight deadlines set by our department head (for example donor reports, event briefings)
 - Working collaboratively with the digital and patient-involvement teams, I led the BHF's first virtual event series and delivered the Patients First stewardship video
 
-**Cambridge Film Festival** - (Jul 2019 to Jan 2020)  
+####  **Cambridge Film Festival** - (Jul 2019 to Jan 2020)  
 Events Manager
 
 ### Project Management
