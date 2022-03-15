@@ -16,7 +16,7 @@ I am excited by the stimulating, challenging environment and endless learning op
 | MugBook | A webapp that allows authenticated users to post pictures and like posts | Rails, Sinatra, Capybara, Postgres |
 | Chitter | My first relational database CRUD app, a 'Twitter clone' | Postgres, Ruby, Rspec, SimpleCov
 
-## Work Experience 
+## Work Experience and Transferable Skills
 
 #### British Heart Foundation (Mar-2020 to Dec-2021)  
 Senior Trusts Executive (Jan 2021 to Dec-2021)
@@ -30,30 +30,36 @@ Senior Donor Relations Executive (Mar 2020 to Dec 2020)
 
 - Working collaboratively with the digital and patient-involvement teams, I led the BHF's first virtual event series and delivered the Patients First stewardship video
 
-####  **Cambridge Film Festival** - (Jul 2019 to Jan 2020)  
+####  Cambridge Film Festival (Jul 2019 to Jan 2020)  
 Events Manager
 
-| Project Management | I organised the community engagement programme (A Film I Love), which involved managing communications with community partners, volunteer teams and venues  |
-| Initiative and creativity | I solved problems under pressure and time constraints; handling short-notice requests and changing requirements at events |
+**Project Management**
+I organised the community engagement programme (A Film I Love), which involved managing communications with community partners, volunteer teams and venues  
 
-**University of Cambridge** - (Dec 2017 to Jul 2019)  
+**Initiative and creativity**
+I solved problems under pressure and time constraints; handling short-notice requests and changing requirements at events 
+
+####  University of Cambridge (Dec 2017 to Jul 2019)  
 St Catharine's College - Alumni Relations and Events Manager (Jan 2019 to Jul 2019)
 Queens' College - Development Events Manager (Dec 2017 to Dec 2018)
 
-| Prioritisation and time-management | Balancing competing priorities, I simultaneously organised the logistics for the annual gala whilst planning and launching a new cultivation strategy and global event series |
-| Initiative and creativity | I solved problems under pressure and time constraints; handling short-notice requests and changing requirements at events |
+**Prioritisation and time-management**
+Balancing competing priorities, I simultaneously organised the logistics for the annual gala whilst planning and launching a new cultivation strategy and global event series
+
+**Initiative and creativity**
+I solved problems under pressure and time constraints; handling short-notice requests and changing requirements at events
 
 ## Education / Training
 
 #### Full-Stack Engineering Bootcamp - Makers Academy (Dec 2021 to Mar 2022)
 Achievement: Building final project webapp using the MERN stack in 2 weeks, without prior knowledge and entirely self-led
 
-•	Fast-paced and focused learning to fulfil project requirements to tight deadlines
-•	Developing and applying best practices and principles within my work: SRP, TDD, MVC, DDD, Agile working
-•	Proactive and self-led learning to improve my skills and complete solo projects and challenges (e.g. Chitter, Bank)
-•	Working collaboratively on team projects and allocating tickets
-•	Adapting to varied communication and working styles through daily pair programming (with 25 other trainee developers)
-•	Troubleshooting and debugging to support other developers when they encounter problems
+- Fast-paced and focused learning to fulfil project requirements to tight deadlines
+- Developing and applying best practices and principles within my work: SRP, TDD, MVC, DDD, Agile working
+- Proactive and self-led learning to improve my skills and complete solo projects and challenges (e.g. Chitter, Bank)
+- Working collaboratively on team projects and allocating tickets
+- Adapting to varied communication and working styles through daily pair programming (with 25 other trainee developers)
+- Troubleshooting and debugging to support other developers when they encounter problems
 - Developing best practices and principles: OOP, TDD, MVC, DDD, Agile working
 
 Techologies I worked with:
@@ -70,7 +76,7 @@ Techologies I worked with:
 Whilst in full-time work, I undertook this part-time course to learn basic python skills. For the final project, I worked in a small group to build a Pokémon Top Trump word game involving loops, dictionaries, lists and requesting data from the Pokémon API. 
 
 ## Personal Interests
-I organised my own sponsored hitchhike to Croatia to raise funds for the Refugee Council charity
-Cooking/Baking - I love experimenting with new recipes so if you work with me, prepare yourself to be tasting a new homemade creation every Monday morning!
-Travelling - exploring and learning about new places, tasting new foods... always saying YES!
-Hiking mountains, walking coastlines and cycling...anywhere! 
+- I organised my own sponsored hitchhike to Croatia to raise funds for the Refugee Council charity
+- Cooking/Baking - I love experimenting with new recipes so if you work with me, prepare yourself to be tasting a new homemade creation every Monday morning!
+- Travelling - exploring and learning about new places, tasting new foods... always saying YES!
+- Hiking mountains, walking coastlines and cycling...anywhere! 
