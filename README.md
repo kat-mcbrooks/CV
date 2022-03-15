@@ -1,16 +1,10 @@
 ## Kat Brooks
 
-Highly motivated, detail-oriented and creative full-stack junior developer, recently graduated from Makers Academy. Teammates value my expert debugging skills, positive attitude and commitment to reusable, test-driven code.  Instilled with best practices I learnt through 
+Highly motivated, detail-oriented and creative full-stack junior developer. From my years working in fast-paced teams within the Education and Charity sectors, I bring a wealth of transferable skills. These include project management, expert written and verbal communication skills and the ability to respond to changing priorities and requirements. 
 
-As a recent graduate from Makers Academy, I focus on readability, usability TDD and . Makers equipped me with a strong commitment to test-driven code  
+Studying mathematics and spanish at University inspired my passion for solving problems collaboratively and systematically. Later, when working as an events manager, my creativity and can-do approach enabled me to efficiently resolve issues and respond effectively when faced with challenging circumstances. Through Makers, I have learnt to use these skills when working independently or within a team to deliver a new app or program that meets user requirements. Teammates value my expert debugging skills, positive attitude and commitment to reusable, test-driven code.
 
-From my years working in fast-paced teams within the Education and Charity sectors, I bring a wealth of transferable skills. These include project management, the ability to respond to changing priorities and requirements, and liaising with external stakeholders whilst managing communications within internal teams. 
-
-Highly motivated, detail-oriented and creative full-stack developer. From my years working in fast-paced teams within the Education and Charity sectors, I bring a wealth of transferable skills. These include project management, expert written and verbal communication skills and the ability to respond to changing priorities and requirements. 
-
-Studying mathematics and spanish at University inspired my passion for solving problems collaboratively and systematically. Later, when working as an events manager, my creativity and can-do approach enabled me to efficiently resolve issues and respond effectively when faced with challenging circumstances. Through Makers, I have learnt to use these skills when working in a team to deliver a new app that meets user requirements, and in pair programming sessions to complete weekly challenges. 
-
-I am excited by the stimulating, challenging environment and endless learning opportunities environment that a career in tech will offer./I am excited to find a role in the tech industry where I can make a positive impact and continue challenging myself to learn and improve my skills. 
+I am excited by the stimulating, challenging environment and endless learning opportunities that a career in tech will offer. Equipped with best practices and principles I gained through Makers, I look forward to applying my knowledge and continuing to expand my skillset within an inclusive and inspiring team.
 
 
 ## Projects
@@ -19,7 +13,7 @@ I am excited by the stimulating, challenging environment and endless learning op
 | ------------------| -----------------             | ----------------- |
 | PairPro           | A webapp with real-time chat that connects software developers who are interested in finding others to pair program with. | MERN (MongoDB, Express, React, Node) Javascript, Socket.IO, Cypress, Heroku |
 | Bowling Scorecard | A program that calculates a player's game score, with CLI | Javascript, Jest |
-| MugBook | A webapp that allows authenticated users to post pictures and like posts | Ruby on Rails, Postgres |
+| MugBook | A webapp that allows authenticated users to post pictures and like posts | Rails, Sinatra, Capybara, Postgres |
 | Chitter | My first relational database CRUD app, a 'Twitter clone' | Postgres, Ruby, Rspec, SimpleCov
 
 ## Work Experience 
