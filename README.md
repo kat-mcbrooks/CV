@@ -18,36 +18,30 @@ I am excited by the stimulating, challenging environment and endless learning op
 
 ## Work Experience and Transferable Skills
 
-#### British Heart Foundation (Mar-2020 to Dec-2021)  
-Senior Trusts Executive (Jan 2021 to Dec-2021)
-Senior Donor Relations Executive (Mar 2020 to Dec 2020)
+### British Heart Foundation (Mar-2020 to Dec-2021)  
+**Senior Trusts Executive** (Jan 2021 to Dec-2021)  
+**Senior Donor Relations Executive** (Mar 2020 to Dec 2020)
 
-| Skill              | Example          |               
-| ------------------| -----------------           
-| Quick learner and adaptable team player  | I pivoted from events (donor relations) to trust fundraising, learning an entirely new skillset and processes, to meet the team’s changing priorities (caused by the impact of COVID-19) | 
-| Communication and relationship management | I built and strengthened relationships with colleagues across the organisation to collate information and meet tight deadlines set by our department head (for example donor reports, event briefings) |
-| Adaptability and delivering results | I manage constantly changing project requirements and deliverables, due to the fact that I was working with the BHF's highest-value donors. | 
+- **Quick learner and adaptable team player**: I pivoted from events (donor relations) to trust fundraising, learning an entirely new skillset and processes, to meet the team’s changing priorities (caused by the impact of COVID-19) 
+- **Communication and relationship management**: I built and strengthened relationships with colleagues across the organisation to collate information and meet tight deadlines set by our department head (for example donor reports, event briefings)
+- **Adaptability and delivering results**: As our stakeholders were the charity's highest-value donors, I managed constantly changing project requirements and deliverables 
 
-- Working collaboratively with the digital and patient-involvement teams, I led the BHF's first virtual event series and delivered the Patients First stewardship video
+**Achievement**: Working collaboratively with the digital and patient-involvement teams, I led the BHF's first virtual event series and delivered the Patients First stewardship video
 
-####  Cambridge Film Festival (Jul 2019 to Jan 2020)  
-Events Manager
+### Cambridge Film Festival (Jul 2019 to Jan 2020)  
+**Events Manager**
 
-**Project Management**
-I organised the community engagement programme (A Film I Love), which involved managing communications with community partners, volunteer teams and venues  
+- **Project Management**: I organised the community engagement programme (A Film I Love), which involved managing communications with community partners, volunteer teams and venues  
 
-**Initiative and creativity**
-I solved problems under pressure and time constraints; handling short-notice requests and changing requirements at events 
+- **Initiative and creativity**: I solved problems under pressure and time constraints; handling short-notice requests and changing requirements at events 
 
-####  University of Cambridge (Dec 2017 to Jul 2019)  
-St Catharine's College - Alumni Relations and Events Manager (Jan 2019 to Jul 2019)
-Queens' College - Development Events Manager (Dec 2017 to Dec 2018)
+### University of Cambridge (Dec 2017 to Jul 2019)  
+**St Catharine's College - Alumni Relations and Events Manager** (Jan 2019 to Jul 2019)  
+**Queens' College - Development Events Manager** (Dec 2017 to Dec 2018)
 
-**Prioritisation and time-management**
-Balancing competing priorities, I simultaneously organised the logistics for the annual gala whilst planning and launching a new cultivation strategy and global event series
+- **Prioritisation and time-management**: I simultaneously organised the logistics for the annual gala whilst planning and launching a new cultivation strategy and global event series
 
-**Initiative and creativity**
-I solved problems under pressure and time constraints; handling short-notice requests and changing requirements at events
+- **Detailed and thorough approach**: My meticulous attention to detail enabled me to proofread gift agreements, acknowledgement letters and impact reports
 
 ## Education / Training
 
