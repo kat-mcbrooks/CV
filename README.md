@@ -54,7 +54,6 @@ Achievement: Building final project webapp using the MERN stack in 2 weeks, with
 - Working collaboratively on team projects and allocating tickets
 - Adapting to varied communication and working styles through daily pair programming (with 25 other trainee developers)
 - Troubleshooting and debugging to support other developers when they encounter problems
-- Developing best practices and principles: OOP, TDD, MVC, DDD, Agile working
 
 Techologies I worked with:
 - React, Express, Node, MongoDB, Ruby, Rails, JavaScript, Sinatra, PostgreSQL
