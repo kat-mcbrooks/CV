@@ -13,7 +13,7 @@ I am excited by the stimulating, challenging environment and endless learning op
 | ------------------| -----------------             | ----------------- |
 | PairPro           | A webapp with real-time chat that connects software developers who are interested in finding others to pair program with. | MERN stack, Javascript, Socket.IO, Cypress, Heroku |
 | Bowling Scorecard | A program that calculates a player's game score, with CLI | Javascript, Jest |
-| MugBook | A webapp that allows authenticated users to post pictures and like posts | Rails, Sinatra, Capybara, Postgres |
+| MugBook | A webapp that allows authenticated users to post pictures and like posts | Rails, Sinatra, Capybara, PostgreSQL |
 | Chitter | My first relational database CRUD app, a 'Twitter clone' | Postgres, Ruby, Rspec, SimpleCov
 
 ## Work Experience and Transferable Skills
@@ -57,7 +57,7 @@ Achievement: Building final project webapp using the MERN stack in 2 weeks, with
 - Developing best practices and principles: OOP, TDD, MVC, DDD, Agile working
 
 Techologies I worked with:
-- React, Express, Node, MongoDB, Ruby, Rails, JavaScript, Sinatra
+- React, Express, Node, MongoDB, Ruby, Rails, JavaScript, Sinatra, PostgreSQL
 - Testing Frameworks: RSpec, Jest, Cypress, React Testing Library, Capybara
 - CSS, Bootstrap
 
