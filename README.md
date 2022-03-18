@@ -1,6 +1,6 @@
 ## Kat Brooks
 
-Highly motivated, detail-oriented and creative full-stack junior developer. Equipped with best practices and principles I gained through Makers bootcamp, I am excited to apply my knowledge to real-world challenges, and continue expanding my skillset, within a supportive team.
+Highly motivated, detail-oriented and creative full-stack junior developer. Equipped with best practices and principles I gained through Makers bootcamp, I am excited to apply my knowledge to real-world challenges and join a supportive organisation where I can continue expanding my skillset.
 
 From my years working in fast-paced teams within the Education and Charity sectors, I bring a wealth of transferable skills. These include project management, expert written and verbal communication skills and the ability to respond to changing priorities and requirements. 
 
