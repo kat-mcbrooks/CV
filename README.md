@@ -4,17 +4,17 @@ Highly motivated, detail-oriented and creative full-stack junior developer. Equi
 
 From my years working in fast-paced teams within the Education and Charity sectors, I bring a wealth of transferable skills. These include project management, expert written and verbal communication skills and the ability to respond to changing priorities and requirements. 
 
-Studying mathematics and spanish at University inspired my passion for solving problems collaboratively and systematically. Later, when working as an events manager, my creativity and can-do approach enabled me to efficiently resolve issues and respond effectively when faced with challenging circumstances. Through Makers, I have learnt to use these skills when working independently or within a team to deliver a new app or program that meets user requirements. Teammates value my expert debugging skills, positive attitude and commitment to reusable, test-driven code.
+Studying mathematics and spanish at University inspired my passion for solving problems collaboratively and systematically. Later, when working as an events manager, my creativity and can-do approach enabled me to solve problems and lead the delivery team onsite. Through Makers, I have learnt to use these skills when working independently or within a team to deliver a new app or program that meets user requirements. Teammates value my expert debugging skills, positive attitude and commitment to reusable, test-driven code.
 
 
 ## Projects
 
 | Name              | Description                           | Tech/tools        |
 | ------------------| -----------------             | ----------------- |
-| PairPro           | A webapp with real-time chat that connects software developers who are interested in finding others to pair program with. | MERN stack, Javascript, Socket.IO, Cypress, Heroku |
-| Bowling Scorecard | A program that calculates a player's game score, with CLI | Javascript, Jest |
-| MugBook | A webapp that allows authenticated users to post pictures and like posts | Rails, Sinatra, Capybara, PostgreSQL |
-| Chitter | My first relational database CRUD app, a 'Twitter clone' | Postgres, Ruby, Rspec, SimpleCov
+| [PairPro](https://github.com/kat-mcbrooks/pair-pro) | Web app with real-time chat that connects software developers who are interested in finding others to pair program with. | MERN stack, Javascript, Socket.IO, Cypress, Heroku |
+| [News headlines](https://github.com/kat-mcbrooks/news-summary-challenge)| Web app that displays the latest headlines, using the Guardian API, with a search filter option. | Javascript, Jest |
+| [MugBook](https://github.com/kat-mcbrooks/acebook-mugbook) | Facebook-style web app that allows authenticated users to post pictures and like posts | Rails, Sinatra, Capybara, PostgreSQL |
+| [Chitter](https://github.com/kat-mcbrooks/chitter-challenge) | My first relational database CRUD app, a 'Twitter clone' | Postgres, Ruby, Rspec, SimpleCov
 
 ## Work Experience and Transferable Skills
 
@@ -57,16 +57,16 @@ Achievement: Building final project webapp using the MERN stack in 2 weeks, with
 
 Technologies and languages I worked with:
 - React, Express, Node, MongoDB, Ruby, Rails, JavaScript, Sinatra, PostgreSQL
-- Testing Frameworks: RSpec, Jest, Cypress, React Testing Library, Capybara
+- Testing: RSpec, Jest, Cypress, React Testing Library, Capybara
 - CSS, Bootstrap
+
+#### Code First Girls - Kickstarter in Python (Aug 2021) 
+Whilst in full-time work, I undertook this part-time course to learn basic python skills. For the final project, I worked in a small group to build a Pokémon Top Trump game involving loops, dictionaries, lists and requesting data from the Pokémon API. 
 
 #### University of Exeter (Sep 2010 to Jul 2014)
 
 - Mathematics and Spanish (BSc Combined Honours)
 - Grade: First
-
-#### Code First Girls - Kickstarter in Python (Aug 2021) 
-Whilst in full-time work, I undertook this part-time course to learn basic python skills. For the final project, I worked in a small group to build a Pokémon Top Trump word game involving loops, dictionaries, lists and requesting data from the Pokémon API. 
 
 ## Personal Interests
 - I organised my own sponsored hitchhike to Croatia to raise funds for the Refugee Council charity
