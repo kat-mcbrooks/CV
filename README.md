@@ -28,7 +28,7 @@ Achievement: Building final project webapp using the MERN stack in 2 weeks, with
 - Fast-paced and focused learning to fulfil project requirements to tight deadlines
 - Developing and applying best practices and principles within my work: SRP, TDD, MVC, DDD, Agile working
 - Proactive and self-led learning to improve my skills and complete solo projects and challenges (e.g. Chitter, Bank)
-- Working collaboratively on team projects and allocating tickets
+- Working collaboratively on team projects, sprints, stand-ups, retros and allocating tickets
 - Adapting to varied communication and working styles through daily pair programming (with 25 other trainee developers)
 - Troubleshooting and debugging to support other developers when they encounter problems
 - EQ training: feedback, empathy, teamwork
