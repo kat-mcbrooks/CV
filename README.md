@@ -1,13 +1,19 @@
 ## Kat Brooks
 
-Highly motivated, detail-oriented and creative full-stack junior developer. Equipped with best practices and principles I gained through Makers bootcamp, I am excited to apply my knowledge to real-world challenges and join a supportive organisation where I can continue expanding my skillset.
+[Projects and Tech Experience](#Projects-and-Tech-Experience) |
+[Work Experience and Skills](#Work-Experience-and-Transferable-Skills) |
+[Education](#Education) |
+[What sparked my interest in coding](#What-sparked-my-interest-in-coding?-Career-change-motivations) |
+[Personal Interests](#Personal-interests)
+
+Highly motivated, detail-oriented and creative full-stack junior developer. Equipped with best practices and principles I gained through Makers bootcamp, I am excited to apply my knowledge to real-world challenges, make a positive impact and join a supportive organisation where I can continue expanding my skillset.
 
 From my years working in fast-paced teams within the Education and Charity sectors, I bring a wealth of transferable skills. These include project management, expert written and verbal communication skills and the ability to respond to changing priorities and requirements. 
 
 Studying mathematics and spanish at University inspired my passion for solving problems collaboratively and systematically. Later, when working as an events manager, my creativity and can-do approach enabled me to solve problems and lead the delivery team onsite. Through Makers, I have learnt to use these skills when working independently or within a team to deliver a new app or program that meets user requirements. Teammates value my expert debugging skills, positive attitude and commitment to reusable, test-driven code.
 
 
-## Projects
+## Projects and Tech Experience
 
 | Name              | Description                           | Tech/tools        |
 | ------------------| -----------------             | ----------------- |
@@ -15,6 +21,24 @@ Studying mathematics and spanish at University inspired my passion for solving p
 | [News headlines](https://github.com/kat-mcbrooks/news-summary-challenge)| Web app that displays the latest headlines, using the Guardian API, with a search filter option. | Javascript, Jest |
 | [MugBook](https://github.com/kat-mcbrooks/acebook-mugbook) | Facebook-style web app that allows authenticated users to post pictures and like posts | Rails, Sinatra, Capybara, PostgreSQL |
 | [Chitter](https://github.com/kat-mcbrooks/chitter-challenge) | My first relational database CRUD app, a 'Twitter clone' | Postgres, Ruby, Rspec, SimpleCov
+
+#### Full-Stack Engineering Bootcamp - Makers Academy (Dec 2021 to Mar 2022)
+Achievement: Building final project webapp using the MERN stack in 2 weeks, without prior knowledge and entirely self-led
+
+- Fast-paced and focused learning to fulfil project requirements to tight deadlines
+- Developing and applying best practices and principles within my work: SRP, TDD, MVC, DDD, Agile working
+- Proactive and self-led learning to improve my skills and complete solo projects and challenges (e.g. Chitter, Bank)
+- Working collaboratively on team projects and allocating tickets
+- Adapting to varied communication and working styles through daily pair programming (with 25 other trainee developers)
+- Troubleshooting and debugging to support other developers when they encounter problems
+
+Technologies and languages I worked with:
+- React, Express, Node, MongoDB, Ruby, Rails, JavaScript, Sinatra, PostgreSQL
+- Testing: RSpec, Jest, Cypress, React Testing Library, Capybara
+- CSS, Bootstrap
+
+#### Code First Girls - Kickstarter in Python (Aug 2021) 
+Whilst in full-time work, I undertook this part-time course to learn basic python skills. For the final project, I worked in a small group to build a Pokémon Top Trump game involving loops, dictionaries, lists and requesting data from the Pokémon API. 
 
 ## Work Experience and Transferable Skills
 
@@ -43,30 +67,15 @@ Studying mathematics and spanish at University inspired my passion for solving p
 
 - **Detailed and thorough approach**: My meticulous attention to detail enabled me to proofread gift agreements, acknowledgement letters and impact reports
 
-## Education / Training
-
-#### Full-Stack Engineering Bootcamp - Makers Academy (Dec 2021 to Mar 2022)
-Achievement: Building final project webapp using the MERN stack in 2 weeks, without prior knowledge and entirely self-led
-
-- Fast-paced and focused learning to fulfil project requirements to tight deadlines
-- Developing and applying best practices and principles within my work: SRP, TDD, MVC, DDD, Agile working
-- Proactive and self-led learning to improve my skills and complete solo projects and challenges (e.g. Chitter, Bank)
-- Working collaboratively on team projects and allocating tickets
-- Adapting to varied communication and working styles through daily pair programming (with 25 other trainee developers)
-- Troubleshooting and debugging to support other developers when they encounter problems
-
-Technologies and languages I worked with:
-- React, Express, Node, MongoDB, Ruby, Rails, JavaScript, Sinatra, PostgreSQL
-- Testing: RSpec, Jest, Cypress, React Testing Library, Capybara
-- CSS, Bootstrap
-
-#### Code First Girls - Kickstarter in Python (Aug 2021) 
-Whilst in full-time work, I undertook this part-time course to learn basic python skills. For the final project, I worked in a small group to build a Pokémon Top Trump game involving loops, dictionaries, lists and requesting data from the Pokémon API. 
+## Education
 
 #### University of Exeter (Sep 2010 to Jul 2014)
 
 - Mathematics and Spanish (BSc Combined Honours)
 - Grade: First
+
+## What sparked my interest in coding? Career change motivations
+In search of a new challenge, and seeking the same fulfilment that solving maths problems once gave me, I completed some beginners courses and soon found myself spending much of my free time on Codewars. Becoming a developer quickly became a hugely exciting prospect - a career where I can apply these skills to real-world challenges. I quickly realised that I did not need to be working in the charity sector to make a positive and meaningful difference to society. Moreover, this would be a career offering me endless learning opportunities. 
 
 ## Personal Interests
 - I organised my own sponsored hitchhike to Croatia to raise funds for the Refugee Council charity
