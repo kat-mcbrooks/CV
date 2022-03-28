@@ -3,7 +3,7 @@
 [Projects and Tech Experience](#Projects-and-Tech-Experience) |
 [Work Experience and Skills](#Work-Experience-and-Transferable-Skills) |
 [Education](#Education) |
-[What sparked my interest in coding](#What-sparked-my-interest-in-coding?-Career-change-motivations) |
+[What sparked my interest in coding](#What-sparked-my-interest-in-coding-My-career-change-motivations) |
 [Personal Interests](#Personal-interests)
 
 Highly motivated, detail-oriented and creative full-stack junior developer. Equipped with best practices and principles I gained through Makers bootcamp, I am excited to apply my knowledge to real-world challenges, make a positive impact and join a supportive organisation where I can continue expanding my skillset.
@@ -76,7 +76,7 @@ Whilst in full-time work, I undertook this part-time course to learn basic pytho
 - Mathematics and Spanish (BSc Combined Honours)
 - Grade: First
 
-## What sparked my interest in coding? Career change motivations
+## What sparked my interest in coding? My career change motivations
 In search of a new challenge, and seeking the same fulfilment that solving maths problems once gave me, I completed some beginners courses and soon found myself spending much of my free time on Codewars. Becoming a developer quickly became a hugely exciting prospect - a career where I can apply these skills to real-world challenges. I quickly realised that I did not need to be working in the charity sector to make a positive and meaningful difference to society. Moreover, this would be a career offering me endless learning opportunities. 
 
 ## Personal Interests
