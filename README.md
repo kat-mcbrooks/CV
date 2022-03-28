@@ -19,6 +19,7 @@ Studying mathematics and spanish at University inspired my passion for solving p
 | ------------------| -----------------             | ----------------- |
 | [PairPro](https://github.com/kat-mcbrooks/pair-pro) | Web app with real-time chat that connects software developers who are interested in finding others to pair program with. | MERN stack, Javascript, Socket.IO, Cypress, Heroku |
 | [News headlines](https://github.com/kat-mcbrooks/news-summary-challenge)| Web app that displays the latest headlines, using the Guardian API, with a search filter option. | Javascript, Jest |
+| [Task Manager](https://github.com/kat-mcbrooks/to-do-app-TS-React) | Frontend single-page web app that allows users to add tasks and drag and drop them from Active to Complete | TypeScript, React |
 | [MugBook](https://github.com/kat-mcbrooks/acebook-mugbook) | Facebook-style web app that allows authenticated users to post pictures and like posts | Rails, Sinatra, Capybara, PostgreSQL |
 | [Chitter](https://github.com/kat-mcbrooks/chitter-challenge) | My first relational database CRUD app, a 'Twitter clone' | Postgres, Ruby, Rspec, SimpleCov
 
