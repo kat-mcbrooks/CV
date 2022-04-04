@@ -40,7 +40,7 @@ Technologies and languages I worked with:
 - CSS, Bootstrap
 
 #### Code First Girls - Kickstarter in Python (Aug 2021) 
-Whilst in full-time work, I undertook this part-time course to learn basic python skills. For the final project, I worked in a small group to build a Pokémon Top Trump game involving loops, dictionaries, lists and requesting data from the Pokémon API. 
+Whilst in full-time work, I undertook this part-time course to learn Python and become familiar using PyCharm. For the final project, I worked in a small group to build a Pokémon Top Trump game involving loops, dictionaries, lists and requesting data from the Pokémon API. 
 
 ## Work Experience and Transferable Skills
 
