@@ -6,9 +6,9 @@
 [What sparked my interest in coding](#What-sparked-my-interest-in-coding-My-career-change-motivations) |
 [Personal Interests](#Personal-interests)
 
-Highly motivated, detail-oriented and creative full-stack junior developer. Equipped with best practices and principles I gained through Makers bootcamp, I am excited to apply my knowledge to real-world challenges, make a positive impact and join a supportive organisation where I can continue expanding my skillset.
+Driven, proactive and diligent full-stack junior developer. Equipped with best practices and principles I gained through Makers bootcamp, I am excited to apply my knowledge to real-world challenges, make a positive impact and join a supportive organisation where I can continue expanding my skillset.
 
-From my years working in fast-paced teams within the Education and Charity sectors, I bring a wealth of transferable skills. These include project management, expert written and verbal communication skills and the ability to respond to changing priorities and requirements. 
+From my years working in fast-paced teams within the Education and Charity sectors, I bring a wealth of transferable skills. These include project management, strong written and verbal communication skills and the ability to respond to changing priorities and requirements. 
 
 Studying mathematics and spanish at University inspired my passion for solving problems collaboratively and systematically. Later, when working as an events manager, my creativity and can-do approach enabled me to solve problems and lead the delivery team onsite. Through Makers, I have learnt to use these skills when working independently or within a team to deliver a new app or program that meets user requirements. Teammates value my expert debugging skills, positive attitude and commitment to reusable, test-driven code.
 
@@ -29,7 +29,7 @@ Achievement: Building final project webapp using the MERN stack in 2 weeks, with
 - Fast-paced and focused learning to fulfil project requirements to tight deadlines
 - Developing and applying best practices and principles within my work: SRP, TDD, MVC, DDD, Agile working
 - Proactive and self-led learning to improve my skills and complete solo projects and challenges (e.g. Chitter, Bank)
-- Working collaboratively on team projects, sprints, stand-ups, retros and allocating tickets
+- Working collaboratively on team projects (running sprints, stand-ups, retros and allocating tickets)
 - Adapting to varied communication and working styles through daily pair programming (with 25 other trainee developers)
 - Troubleshooting and debugging to support other developers when they encounter problems
 - EQ training: feedback, empathy, teamwork
@@ -77,10 +77,9 @@ Whilst in full-time work, I undertook this part-time course to learn basic pytho
 - Grade: First
 
 ## What sparked my interest in coding? My career change motivations
-In search of a new challenge, and seeking the same fulfilment that solving maths problems once gave me, I completed some beginners courses and soon found myself spending much of my free time on Codewars. Becoming a developer quickly became a hugely exciting prospect - a career where I can apply these skills to real-world challenges. I quickly realised that I did not need to be working in the charity sector to make a positive and meaningful difference to society. Moreover, this would be a career offering me endless learning opportunities. 
+In search of a new challenge, and seeking the same fulfilment that solving maths problems once gave me, I completed some beginners courses and soon found myself spending much of my free time on Codewars. Becoming a developer quickly became a hugely exciting prospect - a career where I can apply these skills to real-world challenges. I realised that I did not need to be working in the charity sector to make a positive and meaningful difference to society. Moreover, this would be a career offering me endless learning opportunities. 
 
 ## Personal Interests
 - I organised my own sponsored hitchhike to Croatia to raise funds for the Refugee Council charity
 - Cooking/Baking - I love experimenting with new recipes so if you work with me, prepare yourself to be tasting a new homemade creation every Monday morning!
-- Travelling - exploring and learning about new places, tasting new foods... always saying YES!
 - Hiking mountains, walking coastlines and cycling...anywhere! 
