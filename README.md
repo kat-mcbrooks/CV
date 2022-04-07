@@ -21,6 +21,7 @@ Studying mathematics and spanish at University inspired my passion for solving p
 | [News headlines](https://github.com/kat-mcbrooks/news-summary-challenge)| Web app that displays the latest headlines, using the Guardian API, with a search filter option. | Javascript, Jest |
 | [Task Manager](https://github.com/kat-mcbrooks/to-do-app-TS-React) | Frontend single-page web app that allows users to add tasks and drag and drop them from Active to Complete | TypeScript, React |
 | [DigiPolls](https://github.com/kat-mcbrooks/polling-app-python-django) | Web app that presents poll questions to users, a voting page and a results page | Python, Django, Pytest |
+| [Pokemon Top Trumps](https://github.com/kat-mcbrooks/pokemon) | I built a CLI Pokemon Top Trumps game, requesting data from the PokeAPI | Python | Pytest
 | [Chitter](https://github.com/kat-mcbrooks/chitter-challenge) | My first relational database CRUD app, a 'Twitter clone' | Postgres, Ruby, Rspec, SimpleCov
 
 #### Full-Stack Engineering Bootcamp - Makers Academy (Dec 2021 to Mar 2022)
