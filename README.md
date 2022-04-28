@@ -34,11 +34,13 @@ Achievement: Building final project webapp using the MERN stack in 2 weeks, with
 - Adapting to varied communication and working styles through daily pair programming (with 25 other trainee developers)
 - Troubleshooting and debugging to support other developers when they encounter problems
 - EQ training: feedback, empathy, teamwork
+- Peer mentoring: since graduating, I have been supporting two current students 
 
 Technologies and languages I worked with:
 - React, Express, Node, MongoDB, Ruby, Rails, JavaScript, Sinatra, PostgreSQL
 - Testing: RSpec, Jest, Cypress, React Testing Library, Capybara
 - CSS, Bootstrap
+
 
 #### Code First Girls - Kickstarter in Python (Aug 2021) 
 Whilst in full-time work, I undertook this part-time course to learn Python and become familiar using PyCharm. For the final project, I worked in a small group to build a Pokémon Top Trump game involving loops, dictionaries, lists and requesting data from the Pokémon API. 
@@ -81,6 +83,7 @@ Whilst in full-time work, I undertook this part-time course to learn Python and 
 In search of a new challenge, and seeking the same fulfilment that solving maths problems once gave me, I completed some beginners courses and soon found myself spending much of my free time on Codewars. Becoming a developer quickly became a hugely exciting prospect - a career where I can apply these skills to real-world challenges. I realised that I did not need to be working in the charity sector to make a positive and meaningful difference to society. Moreover, this would be a career offering me endless learning opportunities. 
 
 ## Personal Interests
+- Makers Peer mentor: since graduating, I have enjoyed supporting two current students
 - I organised my own sponsored hitchhike to Croatia to raise funds for the Refugee Council charity
 - Cooking/Baking - I love experimenting with new recipes so if you work with me, prepare yourself to be tasting a new homemade creation every Monday morning!
 - Hiking mountains, walking coastlines and cycling...anywhere! 
